@@ -1,4 +1,5 @@
 # Miscellaneous
+secrets.txt
 *.class
 *.log
 *.pyc
